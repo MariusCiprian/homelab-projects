@@ -1,12 +1,15 @@
 # Linux System Information
 
-A Python project that gathers Linux system information.
+A Python application that collects Linux system information using native Linux commands and Python automation.
 
-## Features
+This project is part of my Homelab Projects learning journey.
 
-- Get hostname
-- Get current user
-- Detect operating system 
+
+## Goal
+
+Build a Linux system information tool while learning:
 
 - Python
 - Linux
+- Git
+- Automation
